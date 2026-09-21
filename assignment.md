@@ -1,4 +1,4 @@
-# Knack 2 Combat guide
+# [Knack 2 Combat guide](https://stinger.actieforum.com/t235-knack-2)
 
 Canceling Attacks
 There are two points where an attack can possibly be canceled.
