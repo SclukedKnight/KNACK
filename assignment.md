@@ -6,6 +6,9 @@ There are two points where an attack can possibly be canceled.
 * 1 - During any stage of the attack animation, be it start up, active hit, or recovery.
 * 2 - During the recovery animation only, as Knack returns to his neutral position.
 
+Inline-style
+![alt text](https://www.playstation.com/en-us/games/knack-2/)
+
 The types of things that can cancel an action (be it just the recovery or completely) in Knack 2 are jumping, dodging, guarding, running, changing forms and certain special moves. You can also link some attacks into others, canceling the recovery. Here is a brief overview of the basic types of cancels.
 
 Jump cancelling - Simply press the jump button during certain attacks. Jump cancelling is great because it also leads to double jump and hover, any of your air options, such as Bodyslam, Jump Kick, air dodge, Flip Kick, and special form moves. This can get you out of dangerous situations, with the option to double jump hover/air dodge away, but also allows you to launch your air attacks at any time. You can also guard in the air so you have an option if you can't fully escape.
