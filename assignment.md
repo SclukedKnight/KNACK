@@ -1,3 +1,5 @@
+# Knack 2 Combat guide
+
 Canceling Attacks
 There are two points where an attack can possibly be canceled.
 
